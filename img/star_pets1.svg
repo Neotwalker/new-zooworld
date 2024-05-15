@@ -1,1 +1,13 @@
-<svg width="53" height="53" fill="none" xmlns="http://www.w3.org/2000/svg"><g filter="url(#a)"><circle cx="26.5" cy="26.5" r="7.5" fill="#FFACF7"/></g><circle cx="26.5" cy="26.5" r="1.5" fill="#fff"/><defs><filter id="a" x=".7" y=".7" width="51.6" height="51.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="9.15" result="effect1_foregroundBlur_80_92"/></filter></defs></svg>
+<svg width="53" height="53" viewBox="0 0 53 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_80_92)">
+<circle cx="26.5" cy="26.5" r="7.5" fill="#FFACF7"/>
+</g>
+<circle cx="26.5" cy="26.5" r="1.5" fill="white"/>
+<defs>
+<filter id="filter0_f_80_92" x="0.700001" y="0.700001" width="51.6" height="51.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="9.15" result="effect1_foregroundBlur_80_92"/>
+</filter>
+</defs>
+</svg>
